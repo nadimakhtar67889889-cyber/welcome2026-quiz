@@ -66,7 +66,7 @@ export default function JoinPage() {
               id="roll"
               value={rollNumber}
               onChange={(e) => setRollNumber(e.target.value)}
-              placeholder="e.g. 26BEECE04"
+              placeholder="e.g. 26BEECE05"
               className="focus-ring w-full rounded-xl border border-navy-border bg-navy-surface px-4 py-3 text-ink placeholder:text-muted/60 font-mono"
               autoComplete="off"
             />
