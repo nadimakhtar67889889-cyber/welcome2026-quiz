@@ -38,7 +38,7 @@ const questions = [
     ],
     correctIndex: 1,
     points: 1,
-    timeLimitSec: 20
+    timeLimitSec: 30
   },
   {
     id: "q2",
@@ -47,7 +47,7 @@ const questions = [
     options: ["Software as a Service (SaaS)", "Platform as a Service (PaaS)", "Infrastructure as a Service (IaaS)", "Function as a Service (FaaS)"],
     correctIndex: 2,
     points: 1,
-    timeLimitSec: 20
+    timeLimitSec: 30
   },
   {
     id: "q3",
@@ -56,7 +56,7 @@ const questions = [
     options: ["Free unlimited resources forever", "Low barrier to start building real projects", "No need to learn programming", "Guaranteed job placement"],
     correctIndex: 1,
     points: 1,
-    timeLimitSec: 20
+    timeLimitSec: 30
   },
   {
     id: "q4",
@@ -65,7 +65,7 @@ const questions = [
     options: ["only once a year", "as you use them", "before you use them, in bulk", "only in physical currency"],
     correctIndex: 1,
     points: 1,
-    timeLimitSec: 20
+    timeLimitSec: 30
   },
   {
     id: "q5",
@@ -74,7 +74,7 @@ const questions = [
     options: ["A static offline calculator", "A website handling sudden traffic spikes", "A printed brochure", "A single-user desktop app"],
     correctIndex: 1,
     points: 1,
-    timeLimitSec: 20
+    timeLimitSec: 30
   },
   {
     id: "q6",
@@ -83,7 +83,7 @@ const questions = [
     options: ["Perfect UI design", "Shipping a working first version", "Raising funding", "Hiring a large team"],
     correctIndex: 1,
     points: 1,
-    timeLimitSec: 20
+    timeLimitSec: 30
   },
   {
     id: "q7",
@@ -92,7 +92,7 @@ const questions = [
     options: ["AWS Educate / AWS Student Builder communities", "AWS Marketplace only", "AWS Retail stores", "AWS Physical data tours"],
     correctIndex: 0,
     points: 1,
-    timeLimitSec: 20
+    timeLimitSec: 30
   },
   {
     id: "q8",
@@ -101,7 +101,7 @@ const questions = [
     options: ["Consumer-only mindset", "Growth mindset", "Team mindset", "Research mindset"],
     correctIndex: 0,
     points: 1,
-    timeLimitSec: 20
+    timeLimitSec: 30
   },
 
   // ---------- AWS / CLOUD FUNDAMENTALS (usable as-is) ----------
@@ -112,7 +112,7 @@ const questions = [
     options: ["Amazon EC2", "Amazon S3", "Amazon RDS", "AWS Lambda"],
     correctIndex: 1,
     points: 1,
-    timeLimitSec: 15
+    timeLimitSec: 30
   },
   {
     id: "q10",
@@ -121,7 +121,7 @@ const questions = [
     options: ["Amazon S3", "Amazon EC2", "AWS IAM", "Amazon Route 53"],
     correctIndex: 1,
     points: 1,
-    timeLimitSec: 15
+    timeLimitSec: 30
   },
   {
     id: "q11",
@@ -130,7 +130,7 @@ const questions = [
     options: ["Network bandwidth", "Users, groups, and permissions", "Physical server temperature", "Domain name registration"],
     correctIndex: 1,
     points: 1,
-    timeLimitSec: 15
+    timeLimitSec: 30
   },
   {
     id: "q12",
@@ -144,7 +144,7 @@ const questions = [
     ],
     correctIndex: 1,
     points: 1,
-    timeLimitSec: 15
+    timeLimitSec: 30
   },
   {
     id: "q13",
@@ -158,7 +158,7 @@ const questions = [
     ],
     correctIndex: 1,
     points: 1,
-    timeLimitSec: 15
+    timeLimitSec: 30
   },
   {
     id: "q14",
@@ -167,7 +167,7 @@ const questions = [
     options: ["Amazon EC2", "AWS Lambda", "Amazon S3", "AWS Direct Connect"],
     correctIndex: 1,
     points: 1,
-    timeLimitSec: 15
+    timeLimitSec: 30
   },
   {
     id: "q15",
@@ -176,7 +176,7 @@ const questions = [
     options: ["Amazon RDS", "Amazon S3", "Amazon CloudFront", "AWS Snowball"],
     correctIndex: 0,
     points: 1,
-    timeLimitSec: 15
+    timeLimitSec: 30
   },
   {
     id: "q16",
@@ -190,7 +190,7 @@ const questions = [
     ],
     correctIndex: 1,
     points: 1,
-    timeLimitSec: 15
+    timeLimitSec: 30
   },
 
   // ---------- SCENARIO / APPLIED THINKING ----------
@@ -201,7 +201,7 @@ const questions = [
     options: ["Manual server upgrades once a year", "Elastic scalability", "Turning the website offline", "Reducing image quality permanently"],
     correctIndex: 1,
     points: 2,
-    timeLimitSec: 20
+    timeLimitSec: 30
   },
   {
     id: "q18",
@@ -210,7 +210,7 @@ const questions = [
     options: ["Amazon EC2", "Amazon S3", "AWS IAM", "Amazon Route 53"],
     correctIndex: 1,
     points: 2,
-    timeLimitSec: 20
+    timeLimitSec: 30
   },
   {
     id: "q19",
@@ -219,8 +219,8 @@ const questions = [
     options: ["Public S3 bucket for everyone", "Fine-grained IAM permissions", "Disable login entirely", "Share one shared admin password"],
     correctIndex: 1,
     points: 2,
-    timeLimitSec: 20
-  },
+    timeLimitSec: 30
+  },                                
 
   // ---------- FINAL CHALLENGE ----------
   {
